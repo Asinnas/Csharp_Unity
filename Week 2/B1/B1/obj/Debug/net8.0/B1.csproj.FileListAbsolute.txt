@@ -1,0 +1,15 @@
+D:\C#_Unity\Week 2\B1\B1\bin\Debug\net8.0\B1.exe
+D:\C#_Unity\Week 2\B1\B1\bin\Debug\net8.0\B1.deps.json
+D:\C#_Unity\Week 2\B1\B1\bin\Debug\net8.0\B1.runtimeconfig.json
+D:\C#_Unity\Week 2\B1\B1\bin\Debug\net8.0\B1.dll
+D:\C#_Unity\Week 2\B1\B1\bin\Debug\net8.0\B1.pdb
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.AssemblyInfoInputs.cache
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.AssemblyInfo.cs
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.csproj.CoreCompileInputs.cache
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.sourcelink.json
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.dll
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\refint\B1.dll
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.pdb
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\B1.genruntimeconfig.cache
+D:\C#_Unity\Week 2\B1\B1\obj\Debug\net8.0\ref\B1.dll

@@ -1,0 +1,15 @@
+D:\C#_Unity\Week 2\B2\B2\bin\Debug\net8.0\B2.exe
+D:\C#_Unity\Week 2\B2\B2\bin\Debug\net8.0\B2.deps.json
+D:\C#_Unity\Week 2\B2\B2\bin\Debug\net8.0\B2.runtimeconfig.json
+D:\C#_Unity\Week 2\B2\B2\bin\Debug\net8.0\B2.dll
+D:\C#_Unity\Week 2\B2\B2\bin\Debug\net8.0\B2.pdb
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.AssemblyInfoInputs.cache
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.AssemblyInfo.cs
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.csproj.CoreCompileInputs.cache
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.sourcelink.json
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.dll
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\refint\B2.dll
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.pdb
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\B2.genruntimeconfig.cache
+D:\C#_Unity\Week 2\B2\B2\obj\Debug\net8.0\ref\B2.dll
