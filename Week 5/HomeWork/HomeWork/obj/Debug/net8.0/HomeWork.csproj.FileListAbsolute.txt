@@ -1,0 +1,15 @@
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfoInputs.cache
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.AssemblyInfo.cs
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.csproj.CoreCompileInputs.cache
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.sourcelink.json
+D:\C#_Unity\Week 5\HomeWork\HomeWork\bin\Debug\net8.0\HomeWork.exe
+D:\C#_Unity\Week 5\HomeWork\HomeWork\bin\Debug\net8.0\HomeWork.deps.json
+D:\C#_Unity\Week 5\HomeWork\HomeWork\bin\Debug\net8.0\HomeWork.runtimeconfig.json
+D:\C#_Unity\Week 5\HomeWork\HomeWork\bin\Debug\net8.0\HomeWork.dll
+D:\C#_Unity\Week 5\HomeWork\HomeWork\bin\Debug\net8.0\HomeWork.pdb
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.dll
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\refint\HomeWork.dll
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.pdb
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\HomeWork.genruntimeconfig.cache
+D:\C#_Unity\Week 5\HomeWork\HomeWork\obj\Debug\net8.0\ref\HomeWork.dll
